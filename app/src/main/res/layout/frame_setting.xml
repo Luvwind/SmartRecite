@@ -193,7 +193,13 @@
             android:layout_weight="1"
             android:width="0dp"
             android:text="@string/save" />
-
+        <Button
+            android:id="@+id/register"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:width="0dp"
+            android:text="@string/register" />
         <Button
             android:id="@+id/login"
             android:layout_width="wrap_content"

@@ -57,6 +57,7 @@
         android:layout_marginTop="50dp"
         android:layout_marginBottom="40dp">
 
+
     </FrameLayout>
 
     <LinearLayout
@@ -75,7 +76,17 @@
             android:onClick="review"
             android:text="@string/review"
             android:textColor="#FFFFFF" />
-
+        <Button
+            android:id="@+id/btn_classroom"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="3dp"
+            android:layout_marginRight="3dp"
+            android:layout_weight="1"
+            android:background="@android:color/holo_blue_light"
+            android:onClick="setting"
+            android:text="@string/classroom"
+            android:textColor="#FFFFFF" />
         <Button
             android:layout_width="0dp"
             android:layout_height="match_parent"

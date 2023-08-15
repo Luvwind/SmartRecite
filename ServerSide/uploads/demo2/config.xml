@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="tf" value="false" />
+    <string name="unlock">3</string>
+    <string name="level">cet_4</string>
+    <boolean name="btnTf" value="true" />
+    <string name="server_url">http://172.20.10.4:5000</string>
+    <int name="version" value="1" />
+</map>

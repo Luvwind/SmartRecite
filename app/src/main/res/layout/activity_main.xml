@@ -92,5 +92,14 @@
             android:textSize="20sp" />
 
     </RadioGroup>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="100dp"
+        android:gravity="center_horizontal"
+        android:text="@string/unlockedScreen"
+        android:textColor="@android:color/white"
+        android:textSize="20sp" />
+
 
 </LinearLayout>

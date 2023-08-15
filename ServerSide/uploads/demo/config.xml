@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="tf" value="false" />
+    <string name="unlock">3</string>
+    <string name="server_url">http://10.17.73.44:5000</string>
+    <string name="level">cet_6</string>
+    <set name="wrong">
+        <string>1</string>
+    </set>
+</map>

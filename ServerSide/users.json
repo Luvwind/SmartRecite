@@ -1,8 +1,1 @@
-{
-  "users": [
-    {
-      "username": "demo",
-      "password": "demo"
-    }
-  ]
-}
+{"users": [{"username": "demo", "password": "demo"}, {"username": "demo1", "password": "demo1"}, {"username": "demo2", "password": "demo2"}, {"username": "demo3", "password": "demo3"}, {"username": "demo4", "password": "demo4"}, {"username": "demo5", "password": "demo5"}, {"username": "demo6", "password": "demo6"}, {"username": "demo7", "password": "demo7"}, {"username": "1", "password": "1"}, {"username": "2", "password": "2"}]}

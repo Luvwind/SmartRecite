@@ -121,5 +121,19 @@
             android:textSize="27sp" />
 
     </RelativeLayout>
-
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="65dp" /> <!-- 空白视图 -->
+    <Button
+        android:id="@+id/back_screenlock_btn"
+        android:onClick="goToMainActivity"
+        android:layout_width="150dp"
+        android:layout_height="60dp"
+        android:layout_marginStart="3dp"
+        android:background="@android:color/holo_blue_light"
+        android:layout_gravity="center_horizontal|bottom"
+        android:layout_marginBottom="60dp"
+        android:text="@string/keepLearn"
+        android:textSize="20dp"
+        android:textColor="#FFFFFF" />
 </LinearLayout>

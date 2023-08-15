@@ -5,12 +5,13 @@
     <string name="wait_for_quote_download">Please wait for the famous sayings database to download！</string>
     <string name="download_db">Please wait for the database download to complete!</string>
     <string name="download_quote">Download famous words</string>
-
+    <string name="keepLearn">Keep Learning</string>
     <string name="wrongWords">Wrong</string>
     <string name="reviewWords">Review</string>
     <string name="review">Home</string>
     <string name="setUp">Settings</string>
-
+    <string name="classroom">classroom</string>
+    <string name="backtoHome">back</string>
     <string name="openApp">Open SmartRecite</string>
     <string name="wordDifficulty">Difficulty</string>
     <string name="lockNumber">Questions to unlock</string>
@@ -28,9 +29,11 @@
     <string name="cet6">CET6</string>
     <string name="serverAddress">Server Address</string>
     <string name="save">Save</string>
+    <string name="register">Register</string>
     <string name="user">User</string>
     <string name="pwd">Password</string>
     <string name="signIn">Sign in</string>
     <string name="pull">pull</string>
     <string name="push">push</string>
+    <string name="unlockedScreen">Swipe a word left Swipe right to unlock the screen</string>
 </resources>
