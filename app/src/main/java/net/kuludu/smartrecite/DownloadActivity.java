@@ -67,7 +67,7 @@ public class DownloadActivity extends AppCompatActivity { // 这一行是声明�
         sharedPreferences = getSharedPreferences("config", MODE_PRIVATE);
         editor = sharedPreferences.edit();
         if (sharedPreferences.getString("server_url", null) == null) {
-            editor.putString("server_url", "http://172.20.10.4:5000");
+            editor.putString("server_url", "http://123.123.123.123:5000");
         }
         if (sharedPreferences.getString("level", null) == null) {
             editor.putString("level", "cet_4");
